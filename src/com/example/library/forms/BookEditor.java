@@ -8,4 +8,6 @@ public class BookEditor extends JFrame{
     private JTextField authorNameField;
     private JComboBox genreComboBox;
     private JCheckBox isTakenCheckBox;
+    private JButton cancelButton;
+    private JButton saveButton;
 }
